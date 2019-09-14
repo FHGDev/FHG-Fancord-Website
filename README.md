@@ -1,2 +1,3 @@
-[![Discord Banner 4](https://discordapp.com/api/guilds/473256784954392608/widget.png?style=banner4)](https://discordapp.com/invite/fqsmZK6
-)
+<a href="https://tiny.cc/FHGFans" target="_blank">
+ <img src="https://discordapp.com/api/guilds/473256784954392608/widget.png?style=banner4">
+</a>
