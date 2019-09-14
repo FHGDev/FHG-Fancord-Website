@@ -1,2 +1,1 @@
-# FHG-Fancord-Website
-The website for my Discord server, FHG's Discord.
+![Discord Banner 4](https://discordapp.com/api/guilds/473256784954392608/widget.png?style=banner4)
